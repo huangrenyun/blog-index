@@ -1,5 +1,6 @@
 # 博客文章索引
-#### [PHP-Swoole进程管理Process的使用介绍](https://www.pitmanhuang.com/archives/393)
+#### [PHP-Swoole进程池Process\Pool的使用](https://www.pitmanhuang.com/archives/393)
+#### [PHP-Swoole进程管理Process的使用介绍](https://www.pitmanhuang.com/archives/388)
 #### [PHP-swoole实现web正向代理服务器](https://www.pitmanhuang.com/archives/385)
 #### [SSL、TLS1.0、TLS1.1、TLS1.2、TLS1.3协议的介绍](https://www.pitmanhuang.com/archives/380)
 #### [UDP-用户数据报协议-RFC768介绍](https://www.pitmanhuang.com/archives/373)
