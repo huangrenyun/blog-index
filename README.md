@@ -1,4 +1,5 @@
 # 博客文章索引
+#### [PHP-Swoole同步/异步任务（task）的使用介绍](https://www.pitmanhuang.com/archives/398)
 #### [PHP-Swoole进程池Process\Pool的使用介绍](https://www.pitmanhuang.com/archives/393)
 #### [PHP-Swoole进程管理Process的使用介绍](https://www.pitmanhuang.com/archives/388)
 #### [PHP-swoole实现web正向代理服务器](https://www.pitmanhuang.com/archives/385)
