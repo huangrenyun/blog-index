@@ -1,5 +1,6 @@
 # 博客文章索引
 #### [PHP-基于yield的内存优化与协程的实现](https://www.pitmanhuang.com/archives/433)
+#### [JWT(Json Web Token)的介绍](https://www.pitmanhuang.com/archives/427)
 #### [OAuth1.0,OAuth2.0的介绍](https://www.pitmanhuang.com/archives/409)
 #### [WebSocket协议的介绍](https://www.pitmanhuang.com/archives/403)
 #### [PHP-Swoole同步/异步任务（task）的使用介绍](https://www.pitmanhuang.com/archives/398)
