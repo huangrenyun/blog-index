@@ -1,4 +1,5 @@
 # 博客文章索引
+#### [PHP-AES标准Rijndael算法的介绍与实现](https://www.pitmanhuang.com/archives/490)
 #### [AES-Rijndael有限域(Galois Field)GF(2^8)运算的介绍与实现](https://www.pitmanhuang.com/archives/474)
 #### [GDB调试PHP、COREDUMP文件，快速定位出错代码的介绍与演示](https://www.pitmanhuang.com/archives/461)
 #### [Javascript多线程的实现介绍](https://www.pitmanhuang.com/archives/455)
