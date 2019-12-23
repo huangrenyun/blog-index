@@ -1,4 +1,5 @@
 # 博客文章索引
+#### [vuex四要素与函数柯里化的使用介绍](https://www.pitmanhuang.com/archives/503)
 #### [Web存储的几种方式的整理](https://www.pitmanhuang.com/archives/498)
 #### [PHP-AES标准Rijndael算法的介绍与实现](https://www.pitmanhuang.com/archives/490)
 #### [AES-Rijndael有限域(Galois Field)GF(2^8)运算的介绍与实现](https://www.pitmanhuang.com/archives/474)
