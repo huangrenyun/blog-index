@@ -1,4 +1,5 @@
 # 博客文章索引
+#### [异步Promise、async、await的介绍使用](https://www.pitmanhuang.com/archives/505)
 #### [vuex四要素与函数柯里化的使用介绍](https://www.pitmanhuang.com/archives/503)
 #### [Web存储的几种方式的整理](https://www.pitmanhuang.com/archives/498)
 #### [PHP-AES标准Rijndael算法的介绍与实现](https://www.pitmanhuang.com/archives/490)
