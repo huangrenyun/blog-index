@@ -1,4 +1,5 @@
 # 博客文章索引
+#### [[编程思想进行曲-2]passport组件之league/oauth2-server项目的设计思想整理](https://www.pitmanhuang.com/archives/533)
 #### [[编程思想进行曲-1]UML的整理与介绍](https://www.pitmanhuang.com/archives/520)
 #### [二叉树、B(-)树、B+树、的介绍以及在Mysql中的应用](https://www.pitmanhuang.com/archives/510)
 #### [异步Promise、async、await的介绍使用](https://www.pitmanhuang.com/archives/505)
