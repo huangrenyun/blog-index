@@ -1,9 +1,9 @@
 # 博客文章索引
 #### [[源码精读系列]PHP1的前世今生](https://www.pitmanhuang.com/archives/565)
-#### [[编程思想进行曲-3]guzzlehttp组件之promises项目的设计思想整理](https://www.pitmanhuang.com/archives/558)
+#### [[编程思想进行曲]guzzlehttp组件之promises项目的设计思想整理](https://www.pitmanhuang.com/archives/558)
 #### [向量空间余弦相似度算法的介绍与实现](https://www.pitmanhuang.com/archives/548)
-#### [[编程思想进行曲-2]passport组件之league/oauth2-server项目的设计思想整理](https://www.pitmanhuang.com/archives/533)
-#### [[编程思想进行曲-1]UML的整理与介绍](https://www.pitmanhuang.com/archives/520)
+#### [[编程思想进行曲]passport组件之league/oauth2-server项目的设计思想整理](https://www.pitmanhuang.com/archives/533)
+#### [[编程思想进行曲]UML的整理与介绍](https://www.pitmanhuang.com/archives/520)
 #### [二叉树、B(-)树、B+树、的介绍以及在Mysql中的应用](https://www.pitmanhuang.com/archives/510)
 #### [异步Promise、async、await的介绍使用](https://www.pitmanhuang.com/archives/505)
 #### [vuex四要素与函数柯里化的使用介绍](https://www.pitmanhuang.com/archives/503)
