@@ -1,4 +1,5 @@
 # 博客文章索引
+#### [浅谈PHP的session机制](https://www.pitmanhuang.com/archives/584)
 #### [[源码精读系列]PHP1的前世今生](https://www.pitmanhuang.com/archives/565)
 #### [[编程思想进行曲]guzzlehttp组件之promises项目的设计思想整理](https://www.pitmanhuang.com/archives/558)
 #### [向量空间余弦相似度算法的介绍与实现](https://www.pitmanhuang.com/archives/548)
