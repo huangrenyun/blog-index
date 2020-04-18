@@ -1,4 +1,5 @@
 # 博客文章索引
+#### [Linux文件权限整理介绍](https://www.pitmanhuang.com/archives/604)
 #### [PHP简易提取省市区县以及地址信息](https://www.pitmanhuang.com/archives/594)
 #### [浅谈PHP的session机制](https://www.pitmanhuang.com/archives/584)
 #### [[源码精读系列]PHP1的前世今生](https://www.pitmanhuang.com/archives/565)
