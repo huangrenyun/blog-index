@@ -1,4 +1,5 @@
 # 博客文章索引
+#### [PHP及Excel实现梅花易起卦算法](https://www.pitmanhuang.com/archives/618)
 #### [使用lex和yacc组建你的分析器](https://www.pitmanhuang.com/archives/613)
 #### [Linux文件权限整理介绍](https://www.pitmanhuang.com/archives/604)
 #### [PHP简易提取省市区县以及地址信息](https://www.pitmanhuang.com/archives/594)
