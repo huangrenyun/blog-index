@@ -1,4 +1,5 @@
 # 博客文章索引
+#### [探索编译原理之序章](https://www.pitmanhuang.com/archives/683)
 #### [[源码精读系列]初具形态PHP3源码分析](https://www.pitmanhuang.com/archives/660)
 #### [[源码精读系列]amd规范require.js实现细节分析](https://www.pitmanhuang.com/archives/645)
 #### [[源码精读系列]PHP2/FI之Echo解释器的实现细节](https://www.pitmanhuang.com/archives/626)
