@@ -1,4 +1,5 @@
 # 博客文章索引
+#### [浅谈PDF文件的介绍与应用](https://www.pitmanhuang.com/archives/762)
 #### [【调试技术】chrome断点调试篇](https://www.pitmanhuang.com/archives/747)
 #### [探索编译原理之语法分析中的自顶(底)向下(上)分析、预测分析、推导与归约、LL(1)的介绍](https://www.pitmanhuang.com/archives/724)
 #### [探索编译原理之有穷自动机DFA与NFA的介绍](https://www.pitmanhuang.com/archives/691)
