@@ -1,4 +1,5 @@
 # 博客文章索引
+#### [[编程思想进行曲]overture/socialite组件的设计思想整理](https://www.pitmanhuang.com/archives/775)
 #### [不足百行代码实现简易PHP-mvc框架](https://www.pitmanhuang.com/archives/768)
 #### [浅谈PDF文件的介绍与应用](https://www.pitmanhuang.com/archives/762)
 #### [【调试技术】chrome断点调试篇](https://www.pitmanhuang.com/archives/747)
